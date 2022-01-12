@@ -20,7 +20,7 @@ public class Score {
 	}
 	
 	public void setUser(User user) {
-		this.setUser(user);
+		this.id.setUser(user);
 	}
 
 	public ScorePK getId() {
